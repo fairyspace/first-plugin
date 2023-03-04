@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fairyspace.firstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fairyspace.firstplugin.MyBundle
 
 class MyApplicationService {
 
